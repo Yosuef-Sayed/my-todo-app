@@ -18,7 +18,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  // SqlDB SQL = SqlDB();
+  // SqlDB SQL = SqlDB(); Object of SQLDB class
   // SharedPreferences? prefs;
 
   @override
